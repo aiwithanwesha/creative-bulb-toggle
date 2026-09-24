@@ -10,7 +10,7 @@
   A tiny interactive web experiment exploring how simple interactions, thoughtful animation, and a little code can bring an idea to life.
 </p>
 
-<a href="">
+<a href="https://aiwithanwesha.github.io/creative-bulb-toggle/">
   <img src="https://img.shields.io/badge/✨%20Visit%20Website-FFD86B?style=for-the-badge&logoColor=111111" alt="Visit Website">
 </a>
 
